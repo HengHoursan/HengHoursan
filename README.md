@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Heng+Hoursan;Full-Stack+Developer;Backend+Specialist;Java+Servlet+%7C+Go+%7C+Laravel+%7C+Express.js+%7C+MERN+Stack+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Heng+Hoursan;Full-Stack+Developer;Backend+Specialist;Java+Servlet+%7C+Go+%7C+Laravel+%7C+Express.js+%7C+MERN+%7C+MEVN+Engineer" />
 
 ---
 
@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 💻 **Full-Stack Developer** with strong expertise in **backend engineering**  
-🧠 Specialized in **Java Servlet, Go, Laravel, Express.js, and MERN Stack**  
+🧠 Specialized in **Java Servlet, Go, Laravel, Express.js, MERN & MEVN Stack**  
 ⚙️ Focused on **Clean Architecture, MVC, and RESTful APIs**  
 📦 Experience building **enterprise & production-ready applications**
 
@@ -38,16 +38,16 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-### 🗄️ Databases & Auth
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-
 ### 🧩 MERN Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+
+### 🧩 MEVN Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 
 ### 🏗️ Architecture & DevOps
@@ -68,7 +68,7 @@
 ### 🏥 Clinic Management System  
 **Go • PostgreSQL • React • REST API**
 
-✔ Patient, doctor & appointment management  
+✔ Patient & appointment management  
 ✔ Role-based access control  
 ✔ Clean Architecture backend  
 
@@ -80,11 +80,38 @@
 ### 📚 Book Booking System  
 **Vue 3 • Express.js • MySQL**
 
-✔ RESTful API with Express.js  
-✔ Book reservation & inventory management  
-✔ Admin dashboard & user roles  
+✔ RESTful API backend  
+✔ Book reservation & inventory  
+✔ Admin dashboard  
 
 🔗 **[View Project](https://github.com/HengHoursan/BOOK-SYSTEM-WEB)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧩 MERN Task Management System  
+**MongoDB • Express.js • React • Node.js**
+
+✔ JWT authentication & RBAC  
+✔ Full-stack CRUD workflows  
+✔ Scalable REST API  
+
+🔗 **[View Project](https://github.com/HengHoursan)**
+
+</td>
+<td width="50%">
+
+### 🧩 MEVN Management System  
+**MongoDB • Express.js • Vue 3 • Node.js**
+
+✔ API-driven Vue frontend  
+✔ Modular Express backend  
+✔ Real-world CRUD & auth logic  
+
+🔗 **[View Project](https://github.com/HengHoursan)**
 
 </td>
 </tr>
@@ -95,37 +122,20 @@
 ### 💻 IT Asset Management  
 **Java Servlet • JSP • MySQL • MVC**
 
-✔ Hardware & laptop tracking  
-✔ Authentication & authorization  
-✔ DAO-based backend design  
+✔ Hardware tracking  
+✔ Authentication & roles  
+✔ Enterprise-style backend  
 
 🔗 **[View Project](https://github.com/HengHoursan/LaptopMsUsingReact)**
 
 </td>
 <td width="50%">
 
-### 🧩 MERN Task Management System  
-**MongoDB • Express.js • React • Node.js**
-
-✔ Full MERN Stack application  
-✔ JWT authentication & role-based access  
-✔ RESTful API + React frontend  
-✔ Real-world CRUD & workflow logic  
-
-🔗 **[View Project](https://github.com/HengHoursan)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 ### 💳 Bakong KHQR Gateway  
 **Express.js • Node.js • KHQR • Banking API**
 
-✔ KHQR code generation & validation  
-✔ Secure payment verification  
-✔ Banking API integration  
+✔ KHQR generation & validation  
+✔ Secure payment workflow  
 
 🔗 **[View Project](https://github.com/HengHoursan/Bakong_KhQr)**
 
@@ -135,36 +145,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HengHoursan&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=HengHoursan&theme=tokyonight" height="170"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:henghoursan030604@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/HengHoursan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.facebook.com/heng.hoursan">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
-  </a>
-  <a href="https://www.instagram.com/sann0306">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <sub>⚡ Powered by Java, Go, Laravel, Express.js & MERN Stack · Heng Hoursan · 2026</sub>
+  <sub>⚡ Powered by Java, Go, Laravel, MERN & MEVN · Heng Hoursan · 2026</sub>
 </div>
