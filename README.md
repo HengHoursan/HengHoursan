@@ -42,7 +42,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=react,vue,tailwind,html,css,javascript" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode,idea,webstorm,goland" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode,idea,webstorm" />
 </div>
 
 <br/>
