@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+👋;+I'm+Heng+Hoursan!;Full-Stack+Developer;Backend+Specialist;" />
 </h1>
@@ -59,24 +57,15 @@
 
 <div align="center">
 
-🔹 <b>Clinic Management System</b><br/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
-<i>Patient & appointment management, RBAC, Clean Architecture</i><br/>
-🔗 https://github.com/HengHoursan/clinic-management
-
-<br/><br/>
-
 🔹 <b>Book Booking System</b><br/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=expresslogoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <i>Book reservation, inventory control, admin dashboard</i><br/>
 🔗 https://github.com/HengHoursan/BOOK-SYSTEM-WEB
 
 <br/><br/>
-
 🔹 <b>MERN Task Management System</b><br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -96,7 +85,9 @@
 
 🔹 <b>Bakong KHQR Payment Gateway</b><br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <i>KHQR generation, validation & secure payment workflow and KHQR API</i><br/>
 🔗 https://github.com/HengHoursan/Bakong_KhQr
 
