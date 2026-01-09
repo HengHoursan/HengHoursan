@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+👋;+I'm+Heng+Hoursan!;Full-Stack+Developer;Backend+Specialist;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+👋;+I'm+Heng+Hoursan!;Full-Stack+Web+Developer;" />
 </h1>
 
-<h3 align="center">A Full-Stack Software Developer</h3>
+<h3 align="center">A Full-Stack Web Developer</h3>
 
 <br/>
 
