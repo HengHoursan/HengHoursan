@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Heng+Hoursan;Full-Stack+Developer;Backend+Specialist;Java+Servlet+%7C+Go+%7C+Laravel+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Heng+Hoursan;Full-Stack+Developer;Backend+Specialist;Java+Servlet+%7C+Go+%7C+Laravel+%7C+Express.js+%7C+MERN+Stack+Engineer" />
 
 ---
 
@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 💻 **Full-Stack Developer** with strong expertise in **backend engineering**  
-🧠 Specialized in **Java Servlet, Go, and Laravel** for scalable systems  
+🧠 Specialized in **Java Servlet, Go, Laravel, Express.js, and MERN Stack**  
 ⚙️ Focused on **Clean Architecture, MVC, and RESTful APIs**  
 📦 Experience building **enterprise & production-ready applications**
 
@@ -30,6 +30,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🎨 Frontend Craft
@@ -42,6 +43,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+### 🧩 MERN Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 
 ### 🏗️ Architecture & DevOps
 ![MVC](https://img.shields.io/badge/MVC-000000?style=for-the-badge)
@@ -59,11 +66,11 @@
 <td width="50%">
 
 ### 🏥 Clinic Management System  
-**Go • PostgreSQL • React**
+**Go • PostgreSQL • React • REST API**
 
-✔ Scheduling & patient records  
+✔ Patient, doctor & appointment management  
 ✔ Role-based access control  
-✔ REST API backend  
+✔ Clean Architecture backend  
 
 🔗 **[View Project](https://github.com/HengHoursan/clinic-management)**
 
@@ -71,11 +78,11 @@
 <td width="50%">
 
 ### 📚 Book Booking System  
-**Vue 3 • REST API • MySQL**
+**Vue 3 • Express.js • MySQL**
 
-✔ Browse & reserve books  
-✔ Inventory management  
-✔ Admin dashboard  
+✔ RESTful API with Express.js  
+✔ Book reservation & inventory management  
+✔ Admin dashboard & user roles  
 
 🔗 **[View Project](https://github.com/HengHoursan/BOOK-SYSTEM-WEB)**
 
@@ -86,22 +93,39 @@
 <td width="50%">
 
 ### 💻 IT Asset Management  
-**Java Servlet • JSP • MySQL**
+**Java Servlet • JSP • MySQL • MVC**
 
-✔ Hardware tracking  
-✔ Admin & staff roles  
-✔ Enterprise backend  
+✔ Hardware & laptop tracking  
+✔ Authentication & authorization  
+✔ DAO-based backend design  
 
 🔗 **[View Project](https://github.com/HengHoursan/LaptopMsUsingReact)**
 
 </td>
 <td width="50%">
 
-### 💳 Bakong KHQR Gateway  
-**Node.js • KHQR • Banking API**
+### 🧩 MERN Task Management System  
+**MongoDB • Express.js • React • Node.js**
 
-✔ QR generation & validation  
-✔ Cambodia banking integration  
+✔ Full MERN Stack application  
+✔ JWT authentication & role-based access  
+✔ RESTful API + React frontend  
+✔ Real-world CRUD & workflow logic  
+
+🔗 **[View Project](https://github.com/HengHoursan)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💳 Bakong KHQR Gateway  
+**Express.js • Node.js • KHQR • Banking API**
+
+✔ KHQR code generation & validation  
+✔ Secure payment verification  
+✔ Banking API integration  
 
 🔗 **[View Project](https://github.com/HengHoursan/Bakong_KhQr)**
 
@@ -142,5 +166,5 @@
 ---
 
 <div align="center">
-  <sub>⚡ Powered by Java, Go & Laravel · Heng Hoursan · 2026</sub>
+  <sub>⚡ Powered by Java, Go, Laravel, Express.js & MERN Stack · Heng Hoursan · 2026</sub>
 </div>
