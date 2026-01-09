@@ -56,18 +56,18 @@
 
 🔹 <b>Book Booking System</b><br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=expresslogoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=expresslogoColor=white"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
 <i>Book reservation, inventory control, admin dashboard</i><br/>
 🔗 https://github.com/HengHoursan/BOOK-SYSTEM-WEB
 
 <br/><br/>
 🔹 <b>MERN Stack Manage Role</b><br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
 <i>JWT authentication, RBAC, scalable REST API</i><br/>
 🔗 https://github.com/HengHoursan/manageRole
 
@@ -83,7 +83,7 @@
 <br/><br/>
 
 🔹 <b>IT Asset Management System Using Vue</b><br/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
 <i>Hardware tracking, authentication, MVC architecture and JSP</i><br/>
@@ -94,7 +94,7 @@
 🔹 <b>Bakong KHQR Payment Gateway</b><br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
 <i>KHQR generation, validation & secure payment workflow and KHQR API</i><br/>
 🔗 https://github.com/HengHoursan/Bakong_KhQr
