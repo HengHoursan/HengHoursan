@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HengHoursan.HengHoursan" />
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+👋;+I'm+Heng+Hoursan!;Full-Stack+Developer;Backend+Specialist;" />
@@ -60,35 +60,44 @@
 <div align="center">
 
 🔹 <b>Clinic Management System</b><br/>
-Go • PostgreSQL • React<br/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
 <i>Patient & appointment management, RBAC, Clean Architecture</i><br/>
 🔗 https://github.com/HengHoursan/clinic-management
 
 <br/><br/>
 
 🔹 <b>Book Booking System</b><br/>
-Vue 3 • Express.js • MySQL<br/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
 <i>Book reservation, inventory control, admin dashboard</i><br/>
 🔗 https://github.com/HengHoursan/BOOK-SYSTEM-WEB
 
 <br/><br/>
 
 🔹 <b>MERN Task Management System</b><br/>
-MongoDB • Express • React • Node<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
 <i>JWT authentication, RBAC, scalable REST API</i>
 
 <br/><br/>
 
 🔹 <b>IT Asset Management System</b><br/>
-Java Servlet • JSP • MySQL<br/>
-<i>Hardware tracking, authentication, MVC architecture</i><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+<i>Hardware tracking, authentication, MVC architecture and JSP</i><br/>
 🔗 https://github.com/HengHoursan/LaptopMsUsingReact
 
 <br/><br/>
 
 🔹 <b>Bakong KHQR Payment Gateway</b><br/>
-Node.js • Express • KHQR API<br/>
-<i>KHQR generation, validation & secure payment workflow</i><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br/>
+<i>KHQR generation, validation & secure payment workflow and KHQR API</i><br/>
 🔗 https://github.com/HengHoursan/Bakong_KhQr
 
 </div>
@@ -100,12 +109,12 @@ Node.js • Express • KHQR API<br/>
   <br/>
   <img 
     alt="snake eating my contributions" 
-    src="https://raw.githubusercontent.com/HengHoursan/HengHoursan/output/github-contribution-grid-snake.svg" 
+    src="output/github-contribution-grid-snake.svg" 
   />
 </div>
 
 <hr/>
 
 <div align="center">
-  <sub>⚡ Built with Java, Go, Laravel, Express.js, MERN & MEVN · Heng Hoursan · 2026</sub>
+
 </div>
