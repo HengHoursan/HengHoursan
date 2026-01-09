@@ -41,11 +41,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,laravel,nodejs,express,mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=java,go,laravel,nodejs,express,mongodb,mysql,postgresql,firebase" />
   <br/>
   <img src="https://skillicons.dev/icons?i=react,vue,tailwind,html,css,javascript" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,swagger,vscode" />
 </div>
 
 <br/>
