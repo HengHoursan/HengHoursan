@@ -99,6 +99,15 @@
 <i>KHQR generation, validation & secure payment workflow and KHQR API</i><br/>
 🔗 https://github.com/HengHoursan/Bakong_KhQr
 
+🔹 <b>Book Management System</b><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+<i>Book CRUD management, authentication, RESTful API with Laravel backend</i><br/>
+🔗 https://github.com/HengHoursan/Book_Management_System
+
+<br/><br/>
+
 </div>
 
 <hr/>
