@@ -88,15 +88,6 @@ Experienced in designing, documenting, and testing RESTful APIs using OpenAPI (S
 
 🔹 <b>IT Asset Management System Using React</b><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-<i>Hardware tracking, authentication, MVC architecture (Java Servlet & JSP)</i><br/>
-🔗 https://github.com/HengHoursan/LaptopMsUsingReact
-
-<br/><br/>
-
-🔹 <b>IT Asset Management System Using React</b><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
 <i>Hardware tracking, authentication, MVC architecture (Java Servlet & JSP)</i><br/>
@@ -106,10 +97,11 @@ Experienced in designing, documenting, and testing RESTful APIs using OpenAPI (S
 
 🔹 <b>IT Asset Management System Using Vue</b><br/>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
 <i>Hardware tracking, authentication, MVC architecture (Java Servlet & JSP)</i><br/>
 🔗 https://github.com/HengHoursan/LaptopMsUsingVue
+
 🔹 <b>Book Management System</b><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
