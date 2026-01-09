@@ -1,115 +1,144 @@
 <div align="center">
 
-## 🚀 Hi, I'm Heng Hoursan  
-### Full-Stack Developer | Backend Specialist | Java Servlet & Go Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Heng+Hoursan;Full-Stack+Developer;Backend+Specialist;Java+Servlet+%7C+Go+Engineer" />
+
+---
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=HengHoursan&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/HengHoursan?label=Followers&style=flat&color=0e75b6" />
+</p>
 
 </div>
 
 ---
 
-## 🌐 About Me
+## 🚀 About Me
 
-I am a **full-stack developer** who thrives at the intersection of **robust backend logic** and **clean frontend design**.  
-My expertise focuses on building **scalable enterprise systems** using **Java Servlets**, **Go**, and **modern JavaScript frameworks**.
+💻 **Full-Stack Developer** passionate about building **scalable, secure, and high-performance systems**  
+🧠 Strong focus on **Backend Architecture & System Design**  
+⚙️ Specialized in **Java Servlet, Go, and RESTful APIs**  
+📦 Clean Architecture • MVC • Enterprise-grade systems  
 
-I strongly value:
-- Clean Architecture
-- Maintainable code
-- Efficient database design
-- RESTful API standards
+> _“Good software is built twice: once in the mind, once in code.”_
 
 ---
 
-## 🧠 My Tech Stack
+## 🧰 Tech Arsenal
 
-### 🔧 Backend Core
-- Java Servlet / JSP  
-- Go (Gin, GORM)  
-- Node.js  
-- RESTful APIs  
+### 🔥 Backend Power
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🎨 Frontend Hub
-- React  
-- Vue 3  
-- Ant Design / Element Plus  
-- Tailwind CSS  
+### 🎨 Frontend Craft
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-### 🗄️ Data & Auth
-- MySQL  
-- PostgreSQL  
-- MongoDB  
-- Firebase Authentication  
+### 🗄️ Databases & Auth
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
 ### 🏗️ Architecture & DevOps
-- MVC Pattern  
-- Clean Architecture  
-- Docker  
-- Linux Server  
-- Git & GitHub  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 
 ---
 
-## 📂 Full-Stack Portfolio
+## 📂 Featured Projects
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏥 Clinic Management System</h4>
-      <sub><b>Go • PostgreSQL • React</b></sub><br/>
-      A complete healthcare platform for scheduling, patient records, and administrative workflows.
-      <br/><br/>
-      <a href="https://github.com/HengHoursan/clinic-management"><b>View Project →</b></a>
-    </td>
+<table>
+<tr>
+<td width="50%">
 
-    <td width="50%" valign="top">
-      <h4>📚 Book Booking System</h4>
-      <sub><b>Vue 3 • REST API • MySQL</b></sub><br/>
-      Library management platform allowing users to browse, reserve, and manage book inventories.
-      <br/><br/>
-      <a href="https://github.com/HengHoursan/BOOK-SYSTEM-WEB"><b>View Project →</b></a>
-    </td>
-  </tr>
+### 🏥 Clinic Management System  
+**Go • PostgreSQL • React**
 
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 IT Asset Management</h4>
-      <sub><b>Java Servlet • JSP • MySQL</b></sub><br/>
-      Comprehensive system for tracking laptops and IT assets using Java Servlet/JSP backend.
-      <br/><br/>
-      <a href="https://github.com/HengHoursan/LaptopMsUsingReact"><b>View Project →</b></a>
-    </td>
+✔ Scheduling & patient records  
+✔ Role-based access control  
+✔ REST API backend  
 
-    <td width="50%" valign="top">
-      <h4>💳 Bakong KHQR Gateway</h4>
-      <sub><b>Node.js • KHQR • Banking API</b></sub><br/>
-      Integration with Cambodia’s Bakong KHQR payment system for generating and validating QR payments.
-      <br/><br/>
-      <a href="https://github.com/HengHoursan/Bakong_KhQr"><b>View Project →</b></a>
-    </td>
-  </tr>
+🔗 **[View Project](https://github.com/HengHoursan/clinic-management)**
+
+</td>
+<td width="50%">
+
+### 📚 Book Booking System  
+**Vue 3 • REST API • MySQL**
+
+✔ Browse & reserve books  
+✔ Inventory management  
+✔ Admin dashboard  
+
+🔗 **[View Project](https://github.com/HengHoursan/BOOK-SYSTEM-WEB)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💻 IT Asset Management  
+**Java Servlet • JSP • MySQL**
+
+✔ Hardware tracking  
+✔ Admin & staff roles  
+✔ Enterprise-style backend  
+
+🔗 **[View Project](https://github.com/HengHoursan/LaptopMsUsingReact)**
+
+</td>
+<td width="50%">
+
+### 💳 Bakong KHQR Gateway  
+**Node.js • KHQR • Banking API**
+
+✔ QR generation & validation  
+✔ Payment integration  
+✔ Cambodia banking system  
+
+🔗 **[View Project](https://github.com/HengHoursan/Bakong_KhQr)**
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
-<p align="left">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HengHoursan&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HengHoursan&theme=tokyonight" height="170"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
   <a href="mailto:henghoursan030604@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/HengHoursan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.facebook.com/heng.hoursan">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
   </a>
   <a href="https://www.instagram.com/sann0306">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <sub>© 2026 Heng Hoursan · Built with passion for clean code ⚡</sub>
+  <sub>⚡ Crafted with passion by Heng Hoursan · 2026</sub>
 </div>
