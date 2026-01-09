@@ -47,6 +47,19 @@
 
 <br/>
 <hr/>
+<h2 align="center">📘 API & Documentation</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful%20API-Design-blue?style=for-the-badge" />
+</div>
+
+<p align="center">
+Experienced in designing, documenting, and testing RESTful APIs using OpenAPI (Swagger) and Postman.
+</p>
+
+<hr/>
 
 <h2 align="center">📂 Featured Projects</h2>
 
@@ -108,21 +121,8 @@
 
 <br/><br/>
 
+
 </div>
-
 <hr/>
-
-<!-- <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br/>
-  <img
-    alt="snake eating my contributions"
-    src="output/github-contribution-grid-snake.svg"
-  />
-</div> -->
-
-<hr/>
-
 <div align="center">
-
 </div>
