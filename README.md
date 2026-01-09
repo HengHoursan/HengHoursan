@@ -69,7 +69,7 @@ Experienced in designing, documenting, and testing RESTful APIs using OpenAPI (S
 
 🔹 <b>Book Booking System</b><br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=expresslogoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
 <i>Book reservation, inventory control, admin dashboard</i><br/>
