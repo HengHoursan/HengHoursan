@@ -68,6 +68,16 @@ Experienced in designing, documenting, and testing RESTful APIs using OpenAPI (S
 <div align="center">
 
 <br/><br/>
+
+🔹 <b>Bakong KHQR Payment Gateway</b><br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+<i>KHQR generation, validation & secure payment workflow</i><br/>
+🔗 https://github.com/HengHoursan/Bakong_KhQr
+<br/><br/>
+
 🔹 <b>MERN Stack Manage Role</b><br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -93,6 +103,7 @@ Experienced in designing, documenting, and testing RESTful APIs using OpenAPI (S
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
 <i>Hardware tracking, authentication, MVC architecture (Java Servlet & JSP)</i><br/>
 🔗 https://github.com/HengHoursan/LaptopMsUsingVue
+<br/><br/>
 
 🔹 <b>Book Management System</b><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
